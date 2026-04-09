@@ -4,17 +4,7 @@ A premium web-based virtual harmonium that uses your MacBook's lid angle (or you
 
 Created by [@1sarthak7](https://github.com/1sarthak7/mac-harmonium)
 
-## Features & Enhancements
-
-- **Dual Bellows Control**: 
-  - **Hardware Mode**: Push your laptop lid down to pump air and produce sound based on the physical lid angle.
-  - **Quick Play Mode**: Press the `Spacebar` to simulate pumping the bellows without moving your laptop lid.
-- **Premium Interface**: Dark wood aesthetic with incredibly detailed 3D keys that react to your touch.
-- **Dynamic Audio Engine**:
-  - Web Audio API integration with sawtooth and square wave oscillators for harmonic richness.
-  - Active dynamic compression to prevent audio clipping.
-  - Bellows-linked master volume that naturally decays, closely mimicking a physical harmonium.
-- **Multi-Touch Support**: Play using your mouse, keyboard, or touch screen.
+-Touch Support**: Play using your mouse, keyboard, or touch screen.
 
 ## Requirements
 
